@@ -30,14 +30,13 @@
 [Apache Hadoop 3.0.0-cdh6.0.1 – ResourceManager REST APIs.](https://archive.cloudera.com/cdh6/6.0.1/docs/hadoop-3.0.0-cdh6.0.1/hadoop-yarn/hadoop-yarn-site/ResourceManagerRest.html)  
 [Spak UI meaning - common parts on waitingforcode.com - articles about Apache Spark](https://www.waitingforcode.com/apache-spark/spak-ui-meaning-common-parts/read)  
 # HDFS heavy jobs
-[How to collect Hadoop metrics | Datadog]    (https://www.datadoghq.com/blog/collecting-hadoop-metrics/)  
-[Apache Hadoop 2.4.1 - Hadoop Map Reduce Next Generation-2.4.1 - Writing YARN Applications]    (https://hadoop.apache.org/docs/r2.4.1/hadoop-yarn/hadoop-yarn-site/WritingYarnApplications.html)  
-[Apache Hadoop 2.4.1 - MapReduce Application Master REST API&#39)]    (https://hadoop.apache.org/docs/r2.4.1/hadoop-yarn/hadoop-yarn-site/MapredAppMasterRest.html#Mapreduce_Application_Master_Info_API) 
+[How to collect Hadoop metrics | Datadog](https://www.datadoghq.com/blog/collecting-hadoop-metrics/)  
+[Apache Hadoop 2.4.1 - Hadoop Map Reduce Next Generation-2.4.1 - Writing YARN Applications](https://hadoop.apache.org/docs/r2.4.1/hadoop-yarn/hadoop-yarn-site/WritingYarnApplications.html)  
+[Apache Hadoop 2.4.1 - MapReduce Application Master REST API&#39)](https://hadoop.apache.org/docs/r2.4.1/hadoop-yarn/hadoop-yarn-site/MapredAppMasterRest.html#Mapreduce_Application_Master_Info_API) 
 # sql
 [sql - Select multiple columns from a table, but group by one - Stack Overflow](https://stackoverflow.com/questions/21217778/select-multiple-columns-from-a-table-but-group-by-one) 
 [mysql - SQL select only rows with max value on a column - Stack Overflow](https://stackoverflow.com/questions/7745609/sql-select-only-rows-with-max-value-on-a-column) 
 # HDP_monitoring
-[How to monitor Hadoop with Datadog | Datadog](https://www.datadoghq.com/blog/monitor-hadoop-metrics-datadog/) 
-[How to monitor Hadoop metrics | Datadog](https://www.datadoghq.com/blog/monitor-hadoop-metrics/) 
-[java - Understanding the Hadoop File System Counters - Stack Overflow changes](https://stackoverflow.com/questions/16634294/understanding-the-hadoop-file-system-counters) 
-[bash/.bashrc at master · aarfe/bash]        (https://github.com/aarfe/bash/blob/master/.bashrc) 
+[How to monitor Hadoop with Datadog | Datadog](https://www.datadoghq.com/blog/monitor-hadoop-metrics-datadog/)  
+[How to monitor Hadoop metrics | Datadog](https://www.datadoghq.com/blog/monitor-hadoop-metrics/)  
+[java - Understanding the Hadoop File System Counters - Stack Overflow changes](https://stackoverflow.com/questions/16634294/understanding-the-hadoop-file-system-counters)  
