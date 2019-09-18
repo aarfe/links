@@ -1,6 +1,8 @@
 # watson_studio_hdp_integrator
 [Configuring Livy server for Hadoop Spark access — Anaconda Platform 5.3.0 documentation](https://enterprise-docs.anaconda.com/en/latest/admin/advanced/config-livy-server.html#kerberos-auth)
+
 [Set up Cloudera Distribution for Hadoop (CDH) to work with Watson Studio Local - IBM Watson Studio Local](https://content-dsxlocal.mybluemix.net/docs/content/SSAS34_current/local/cdh.html)
+
 [Making Python on Apache Hadoop Easier with Anaconda and CDH - Cloudera Blog Cloudera](https://blog.cloudera.com/making-python-on-apache-hadoop-easier-with-anaconda-and-cdh/)
 [Running Spark Python Applications | 5.14.x | Cloudera Documentation](https://www.cloudera.com/documentation/enterprise/5-14-x/topics/spark_python.html)
 [Solved: Change Python path - Cloudera Community](https://community.cloudera.com/t5/Support-Questions/Change-Python-path/td-p/38333)
