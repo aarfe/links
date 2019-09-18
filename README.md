@@ -8,7 +8,7 @@
 [Hue User Permissions | 5.13.x | Cloudera Documentation](https://www.cloudera.com/documentation/enterprise/5-13-x/topics/hue_adm_permissions.html)  
 [Solved: Adding a new user to the cluster - Cloudera Community](https://community.cloudera.com/t5/Support-Questions/Adding-a-new-user-to-the-cluster/td-p/130318)  
 
-# Links
+# Querying Yarn
 [hadoop - Aggregate Resource Allocation for a job in YARN - Stack Overflow](https://stackoverflow.com/questions/33866888/aggregate-resource-allocation-for-a-job-in-yarn)  
 [tsquery Language | 5.2.x | Cloudera Documentation](https://www.cloudera.com/documentation/enterprise/5-2-x/topics/cm_dg_tsquery.html)  
 [Solved: How to filter based on query/statement in CM - Cloudera Community](https://community.cloudera.com/t5/Cloudera-Manager-Installation/How-to-filter-based-on-query-statement-in-CM/td-p/50965)  
