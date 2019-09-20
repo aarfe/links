@@ -33,7 +33,7 @@
 [Apache Hadoop 3.0.0-cdh6.0.1 – ResourceManager REST APIs.](https://archive.cloudera.com/cdh6/6.0.1/docs/hadoop-3.0.0-cdh6.0.1/hadoop-yarn/hadoop-yarn-site/ResourceManagerRest.html)  
 [Spak UI meaning - common parts on waitingforcode.com - articles about Apache Spark](https://www.waitingforcode.com/apache-spark/spak-ui-meaning-common-parts/read)  
 
-Yarn AppIds and JobIDs
+# Yarn AppIds and JobIDs
 [Oozie launcher VS hive action jobID](http://www.openkb.info/2016/07/how-to-troubleshoot-oozie-hive-action.html)
 
 # HDFS heavy jobs
